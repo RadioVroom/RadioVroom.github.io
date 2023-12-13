@@ -11,6 +11,7 @@ html {
 
 div{
     img{
+        height: 20.2vw;
       border-radius: 20%;
     }
 }
@@ -18,7 +19,7 @@ div{
 .Ytbe {
 padding: 20px;
 font-size: 30px;
-width: 50px;
+width: 5.2vw;
 text-align: center;
 text-decoration: none;
 position: fixed;
@@ -30,7 +31,7 @@ bottom: 0;
 }
 
 .Slogan {
-    height: 500px;
+    height: 2.2vw;
 }
 
 body {
